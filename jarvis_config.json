@@ -1,0 +1,6 @@
+{
+    "openweather_api_key": "YOUR_OPENWEATHERMAP_API_KEY",
+    "news_api_key": "YOUR_NEWSAPI_API_KEY",
+    "notes_file": "jarvis_notes.txt",
+    "reminders_file": "jarvis_reminders.json"
+}
